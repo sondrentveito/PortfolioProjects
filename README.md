@@ -12,7 +12,7 @@ Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/sond
 
 
 Following I will describe the various projects I have completed or currently are working on:
-
+______________________________________________________________________________________________________
 
 **Covid-19 Data Exploration**´
 
