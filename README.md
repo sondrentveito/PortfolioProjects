@@ -9,3 +9,26 @@ With a keen eye for detail and a commitment to continuous learning, I enthusiast
 Let's collaborate, innovate, and unlock the power of data to drive meaningful outcomes. I'm excited to connect and embark on this transformative adventure!
 
 Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/sondrentveito/).  
+
+
+Following I will describe the various projects I have completed or currently are working on:
+
+# Covid-19 Data Exploration
+
+Code: [COVID Portfolio Project.sql](Covid-19 Data Exploration.sql)
+
+Description: The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+Technology: MySQL
+
+# Covid-19 Data Visualisation 
+
+Code: [Covid-19 SQL Visualisation Code](Covid-19 Visualisation SQL Code.sql)
+Dashboard: [Covid-19 SQL Visualisation Code](https://public.tableau.com/views/Covid19_Dashboard_16882610166920/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Description: The code presents the SQL queries used to extract the data I wanted to present, and in the Dashboard one can see the 
+
+
+
