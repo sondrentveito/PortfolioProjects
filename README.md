@@ -23,7 +23,7 @@ Description: The dataset contains records of Covid-19 cases, deaths and vaccine 
 Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 Technology: MySQL
-
+______________________________________________________________________________________________________
 
 **Covid-19 Data Visualisation**
 
@@ -34,7 +34,7 @@ Dashboard: [Covid-19 SQL Visualisation Code](https://public.tableau.com/views/Co
 Description: The code presents the SQL queries used to extract the data I wanted to present, and in the Dashboard, one can see the numbers of total cases and deaths in a global scale and divided by continents and countries  
 
 Technology: MySQL & Tableau
-
+______________________________________________________________________________________________________
 
 **Nashville Housing Data - Data Cleaning**
 
@@ -45,5 +45,5 @@ Description: The dataset contains a list of houses that have been sold in Nashvi
 Skills: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
 Technology: MySQL
-
+______________________________________________________________________________________________________
 
