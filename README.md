@@ -8,4 +8,4 @@ With a keen eye for detail and a commitment to continuous learning, I enthusiast
 
 Let's collaborate, innovate, and unlock the power of data to drive meaningful outcomes. I'm excited to connect and embark on this transformative adventure!
 
-Find my LinkedIn and resume attached.  
+Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/sondrentveito/).  
