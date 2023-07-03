@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 Code: [Covid-19 SQL Visualisation Code](https://github.com/sondrentveito/PortfolioProjects/blob/9d31595318ef267344be21b72ee61874ab04c3d7/Covid-19%20Visualisation%20SQL%20Code.sql)
 
-Dashboard: [Covid-19 SQL Visualisation Code](https://public.tableau.com/views/Covid19_Dashboard_16882610166920/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+Dashboard: [Covid-19 Visualisation Dashboard](https://public.tableau.com/views/Covid19_Dashboard_16882610166920/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Description: The code presents the SQL queries used to extract the data I wanted to present, and in the Dashboard, one can see the numbers of total cases and deaths in a global scale and divided by continents and countries  
 
