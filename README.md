@@ -13,6 +13,7 @@ Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/sond
 
 Following I will describe the various projects I have completed or currently are working on:
 
+
 **Covid-19 Data Exploration**´
 
 Code: [COVID Portfolio Project](https://github.com/sondrentveito/PortfolioProjects/blob/2bce2faa0054ca82640fe83a997c271e90569533/Covid-19%20Data%20Exploration.sql)
@@ -23,13 +24,17 @@ Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creat
 
 Technology: MySQL
 
+
 **Covid-19 Data Visualisation**
 
 Code: [Covid-19 SQL Visualisation Code](https://github.com/sondrentveito/PortfolioProjects/blob/9d31595318ef267344be21b72ee61874ab04c3d7/Covid-19%20Visualisation%20SQL%20Code.sql)
 
 Dashboard: [Covid-19 SQL Visualisation Code](https://public.tableau.com/views/Covid19_Dashboard_16882610166920/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Description: The code presents the SQL queries used to extract the data I wanted to present, and in the Dashboard one can see the 
+Description: The code presents the SQL queries used to extract the data I wanted to present, and in the Dashboard, one can see the numbers of total cases and deaths in a global scale and divided by continents and countries  
+
+Technology: MySQL & Tableau
+
 
 **Nashville Housing Data - Data Cleaning**
 
