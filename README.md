@@ -47,5 +47,15 @@ Skills: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data De
 Technology: MySQL
 ______________________________________________________________________________________________________
 
+**Excel**
 
-https://github.com/sondrentveito/PortfolioProjects/blob/2abcd570006a37238fbad300398eb8816c74377b/Excel/CLV%20Analysis.xlsx
+[CLV Analysis](https://github.com/sondrentveito/PortfolioProjects/blob/2abcd570006a37238fbad300398eb8816c74377b/Excel/CLV%20Analysis.xlsx
+)
+
+For this assessment I conducted a CLV, PLV, and profitability analyses to determine the best pricing strategy for specific segments and subsegments of a given firm, and made relevant managerial recommendations based on the output of the data analysis and interpretations.
+
+[Conjoint Analysis](https://github.com/sondrentveito/PortfolioProjects/blob/d643e9c52b765085c3e3d8df34f2a0500be892ae/Excel/Conjoint%20%2B%20Regression%20Analysis.xlsx)
+
+For this project I conducted a conjoint and regression analysis to determine the best product profile for a given firm to maximise market share and profitability, and made relevant managerial recommendations.
+
+
