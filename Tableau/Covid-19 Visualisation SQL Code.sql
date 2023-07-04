@@ -1,4 +1,4 @@
--- Queries used for Tableau Visualisation
+-- Queries used for Tableau Visualisation / Dashboard is found in the Portfolio Project description
 
 -- 1. 
 
