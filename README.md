@@ -47,3 +47,5 @@ Skills: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data De
 Technology: MySQL
 ______________________________________________________________________________________________________
 
+
+https://github.com/sondrentveito/PortfolioProjects/blob/2abcd570006a37238fbad300398eb8816c74377b/Excel/CLV%20Analysis.xlsx
