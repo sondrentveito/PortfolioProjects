@@ -31,7 +31,7 @@ Code: [Covid-19 SQL Visualisation Code](https://github.com/sondrentveito/Portfol
 
 Dashboard: [Covid-19 Visualisation Dashboard](https://public.tableau.com/views/Covid19_Dashboard_16882610166920/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Description: The code presents the SQL queries used to extract the data I wanted to present, and in the Dashboard, one can see the numbers of total cases and deaths in a global scale and divided by continents and countries  
+Description: The code presents the SQL queries used to extract the data I wanted to present, and in the Dashboard, one can see the numbers of total cases and deaths on a global scale and divided by continents and countries  
 
 Technology: MySQL & Tableau
 ______________________________________________________________________________________________________
@@ -40,11 +40,30 @@ ________________________________________________________________________________
 
 Code: [Data Cleaning Project Queries: Nashville Housing.sql](https://github.com/sondrentveito/PortfolioProjects/blob/f6cea26536c1f40c0f529ab5e64c08cf50baa357/HousingData_DataCleaning.sql)
 
-Description: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This portfolio project demonstrates skills in data cleaning and manipulation in MySQL, including standardizing date format, updating empty values, self join, splitting string columns, data transformation using CASE statements, and removing duplicates.
+Description: This SQL portfolio project focuses on a dataset comprising the sale records of houses in Nashville from 2013 to 2019. The project showcases my proficiency in data cleaning and manipulation using MySQL, where I applied various techniques to enhance the dataset's quality and usability.First, I standardized the date format, ensuring consistency across the entire dataset. Additionally, I addressed any empty values within the dataset by updating them with relevant information, ensuring a complete and accurate representation of the sales records.
+
+In order to enrich the dataset's insights, I utilized self-joins to connect and analyze related columns. This allowed me to extract valuable information and establish connections between different parts of the dataset.Furthermore, I employed string splitting techniques to break down relevant columns into meaningful components. This enabled me to extract valuable details that were previously embedded within larger string fields.
+
+Through the application of CASE statements, I performed data transformations to derive additional insights from the dataset. This allowed me to create new calculated fields based on specific conditions, facilitating further analysis and interpretation of the data. Lastly, I utilized appropriate methods to remove any duplicate records, ensuring that the dataset remained clean and free from redundant entries.
 
 Skills: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
 Technology: MySQL
+______________________________________________________________________________________________________
+
+**HR Analytics**
+
+Code: HR Analytics SQL Code
+
+Dashboard: [HR Analytics](https://public.tableau.com/views/hr_analytics_/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+This interactive dashboard provides comprehensive insights into our workforce, offering valuable information about key metrics. It presents an overview of our employee statistics, including the total number of employees, attrition rate, active employees, and average age.
+
+Additionally, the dashboard allows you to explore the distribution of salary and job satisfaction across different dimensions, such as department, job role, and age. This enables you to better understand how these factors impact our workforce.
+
+Moreover, the dashboard provides valuable insights into employee retention by showcasing the average tenure with the company, years since the last promotion, and the number of companies worked for. These metrics offer a comprehensive view of employee loyalty and career progression.
+
+By leveraging the interactive features of this dashboard, you can easily navigate through the data, uncover trends, and identify areas for improvement. It serves as a powerful tool for analyzing and optimizing our workforce strategies.
 ______________________________________________________________________________________________________
 
 **Excel**
@@ -52,10 +71,10 @@ ________________________________________________________________________________
 [CLV Analysis](https://github.com/sondrentveito/PortfolioProjects/blob/2abcd570006a37238fbad300398eb8816c74377b/Excel/CLV%20Analysis.xlsx
 )
 
-For this assessment I conducted a CLV, PLV, and profitability analyses to determine the best pricing strategy for specific segments and subsegments of a given firm, and made relevant managerial recommendations based on the output of the data analysis and interpretations.
+For this assessment, I conducted CLV, PLV, and profitability analyses to determine the best pricing strategy for specific segments and subsegments of a given firm and made relevant managerial recommendations based on the output of the data analysis and interpretations.
 
 [Conjoint Analysis](https://github.com/sondrentveito/PortfolioProjects/blob/d643e9c52b765085c3e3d8df34f2a0500be892ae/Excel/Conjoint%20%2B%20Regression%20Analysis.xlsx)
 
-For this project I conducted a conjoint and regression analysis to determine the best product profile for a given firm to maximise market share and profitability, and made relevant managerial recommendations.
+For this project, I conducted a conjoint and regression analysis to determine the best product profile for a given firm to maximise market share and profitability and made relevant managerial recommendations.
 
 
