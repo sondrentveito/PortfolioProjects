@@ -70,7 +70,7 @@ ________________________________________________________________________________
 
 In this project, I embarked on a journey to harness the power of MongoDB Compass for the structured organization and in-depth analysis of IMDb movie data. The primary objective was to create a robust database system that stores and facilitates advanced analytical operations on movie titles and their corresponding ratings. The project encapsulated a comprehensive exploration of MongoDB functionalities, from the initial stages of database and collection creation to the intricate tasks of schema validation and data importation. Furthermore, I delved deep into schema analysis, extracting meaningful insights about the characteristics of the stored data. The pinnacle of this endeavour was the advanced data aggregation tasks, where I unearthed specific trends and patterns, such as the popularity of Fantasy-Adventure movies in 2021. This project stands as a testament to my proficiency in database management and data analytics using MongoDB Compass.
 
-[Click here]([url](https://github.com/sondrentveito/PortfolioProjects/blob/fad51ac17f188cd30c8e5d5d06b88442ac74fbdc/MongoDB%20Portfolio%20IMDb.docx))
+[Click here]([https://github.com/sondrentveito/PortfolioProjects/blob/fad51ac17f188cd30c8e5d5d06b88442ac74fbdc/MongoDB%20Portfolio%20IMDb.docx]
 
 ______________________________________________________________________________________________________
 
