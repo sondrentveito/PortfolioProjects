@@ -89,6 +89,5 @@ For this project, I conducted a conjoint and regression analysis to determine th
 
 In this assignment, I'm venturing into the realm of data analysis with a focus on the ongoing global health challenge: COVID-19. Using the R programming language, a powerful tool for data manipulation and statistical analysis, I'm tasked with organizing, preparing, and examining datasets related to COVID-19's impact in India. The datasets encompass general case statistics, vaccination details, and statewise testing specifics. As a precursor to the analytical tasks, the assignment guides me through the foundational steps of setting up my work environment, ensuring I have the right tools and libraries at my disposal, and familiarizing myself with the data. This groundwork sets the stage for deeper exploration and insights into India's fight against the pandemic.
 
-[Small R Project](https://github.com/sondrentveito/PortfolioProjects/tree/c54d7ac197c29123123b4a08b0cf024c544cd044/R)https://github.com/sondrentveito/PortfolioProjects/tree/c54d7ac197c29123123b4a08b0cf024c544cd044/R)
-
+[Small R Project](https://github.com/sondrentveito/PortfolioProjects/tree/c54d7ac197c29123123b4a08b0cf024c544cd044/R)
 
