@@ -74,6 +74,20 @@ In this project, I embarked on a journey to harness the power of MongoDB Compass
 
 ______________________________________________________________________________________________________
 
+**Python**
+
+1. Project Proposal - Applied Data Mining:
+
+This is a project proposal for a research project in Applied Data Mining. It is suggesting various approaches to investigate a dataset.
+[Click here]([https://github.com/sondrentveito/PortfolioProjects/blob/fad51ac17f188cd30c8e5d5d06b88442ac74fbdc/MongoDB%20Portfolio%20IMDb.docx](https://github.com/sondrentveito/PortfolioProjects/blob/c8ccd4044082523506c1c583e9dfe0bbb70ce6cc/Python/Project%20Proposal%20-%20Applied%20Data%20Mining%20copy.pdf))
+
+2. Apriori Algorithm Analysis:
+
+This document delves deep into the domain of association rule mining. The technique aims to uncover hidden relationships among variables, revealing insights that might be otherwise obscured in large data volumes. The specific focus of this research is to use the Apriori algorithm to identify patterns associated with individuals earning over $50K annually. The aim is to understand the determinants of such earnings, which can provide invaluable insights for policymakers, employers, and educators.
+[Click here]([https://github.com/sondrentveito/PortfolioProjects/blob/fad51ac17f188cd30c8e5d5d06b88442ac74fbdc/MongoDB%20Portfolio%20IMDb.docx](https://github.com/sondrentveito/PortfolioProjects/blob/90cec1bd8d136640ee4f3ae79388198ad76dcdc6/Python/ProjectProposal_AprioriSolution.pdf))
+
+______________________________________________________________________________________________________
+
 **Excel**
 
 [CLV Analysis](https://github.com/sondrentveito/PortfolioProjects/blob/2abcd570006a37238fbad300398eb8816c74377b/Excel/CLV%20Analysis.xlsx
