@@ -80,7 +80,7 @@ ________________________________________________________________________________
 
 This is a project proposal for a research project in Applied Data Mining. It is suggesting various approaches to investigate a dataset.
 
-[Click here][https://github.com/sondrentveito/PortfolioProjects/blob/3843de4958445a06fd748dd6c844aa3caf3790bc/Python/Project%20Proposal%20-%20Applied%20Data%20Mining%20copy.pdf)
+[Click here](https://github.com/sondrentveito/PortfolioProjects/blob/3843de4958445a06fd748dd6c844aa3caf3790bc/Python/Project%20Proposal%20-%20Applied%20Data%20Mining%20copy.pdf)
 
 2. Apriori Algorithm Analysis:
 
