@@ -80,12 +80,13 @@ ________________________________________________________________________________
 
 This is a project proposal for a research project in Applied Data Mining. It is suggesting various approaches to investigate a dataset.
 
-[Click here]([https://github.com/sondrentveito/PortfolioProjects/blob/3843de4958445a06fd748dd6c844aa3caf3790bc/Python/Project%20Proposal%20-%20Applied%20Data%20Mining%20copy.pdf))
+[Click here][https://github.com/sondrentveito/PortfolioProjects/blob/3843de4958445a06fd748dd6c844aa3caf3790bc/Python/Project%20Proposal%20-%20Applied%20Data%20Mining%20copy.pdf)
 
 2. Apriori Algorithm Analysis:
 
 This document delves deep into the domain of association rule mining. The technique aims to uncover hidden relationships among variables, revealing insights that might be otherwise obscured in large data volumes. The specific focus of this research is to use the Apriori algorithm to identify patterns associated with individuals earning over $50K annually. The aim is to understand the determinants of such earnings, which can provide invaluable insights for policymakers, employers, and educators.
-[Click here]([https://github.com/sondrentveito/PortfolioProjects/blob/90cec1bd8d136640ee4f3ae79388198ad76dcdc6/Python/ProjectProposal_AprioriSolution.pdf))
+
+[Click here([https://github.com/sondrentveito/PortfolioProjects/blob/90cec1bd8d136640ee4f3ae79388198ad76dcdc6/Python/ProjectProposal_AprioriSolution.pdf)
 
 ______________________________________________________________________________________________________
 
