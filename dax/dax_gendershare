@@ -1,9 +1,39 @@
-GenderShare = 
-VAR TotalMale = SUM('avstand_tariff'[Male])
-VAR TotalFemale = SUM('avstand_tariff'[Female])
-VAR TotalRows = TotalMale + TotalFemale
-VAR MaleShare = DIVIDE(TotalMale, TotalRows, 0)
-VAR FemaleShare = DIVIDE(TotalFemale, TotalRows, 0)
-RETURN
+CombinedGenderShare = 
+VAR TotalRows = 
+    CALCULATE(
+        SUM('avstand_tariff'[Male]) + SUM('avstand_tariff'[Female]),
+        ALLEXCEPT(
+            'avstand_tariff',
+            'avstand_tariff'[prod0],
+            'avstand_tariff'[PROD1],
+            'avstand_tariff'[PROD2],
+            'avstand_tariff'[Divisjon],
+            'avstand_tariff'[ansv_2_nr] // Replace this with actual column names you want to keep the context for
+        )
+    )
+VAR MaleShare = 
+    DIVIDE(
+        CALCULATE(
+            SUM('avstand_tariff'[Male])
+        ),
+        TotalRows,
+        0
+    )
+VAR FemaleShare = 
+    DIVIDE(
+        CALCULATE(
+            SUM('avstand_tariff'[Female]),
+            ALLEXCEPT(
+                'avstand_tariff',
+                'avstand_tariff'[prod0],
+                'avstand_tariff'[PROD1],
+                'avstand_tariff'[PROD2],
+                'avstand_tariff'[Divisjon],
+                'avstand_tariff'[ansv_2_nr] // And here too
+            )
+        ),
+        TotalRows,
+        0
+    )
+RETURN 
     "M " & FORMAT(MaleShare, "0%") & UNICHAR(10) & "K " & FORMAT(FemaleShare, "0%")
-// "M " & FORMAT(MaleShare, "0%") & " (K " & FORMAT(FemaleShare, "0%") & ")"
