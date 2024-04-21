@@ -1,0 +1,31 @@
+Decile = 
+VAR TotalInsuredItems = SUMX(ALL('avstand_tariff'), 'avstand_tariff'[best_ant])
+VAR RankTable = 
+    ADDCOLUMNS(
+        ALL('avstand_tariff'),
+        "WeightedRank", 
+        RANKX(
+            ALL('avstand_tariff'), 
+            'avstand_tariff'[ris_prm], 
+            , 
+            ASC, 
+            DENSE
+        ),
+        "AccumulatedBestAnt", 
+        CALCULATE(
+            SUM('avstand_tariff'[best_ant]),
+            FILTER(
+                ALL('avstand_tariff'),
+                'avstand_tariff'[ris_prm] <= EARLIER('avstand_tariff'[ris_prm])
+            )
+        )
+    )
+VAR AdjustedRank = SUMX(
+    FILTER(
+        RankTable,
+        'avstand_tariff'[ris_prm] <= EARLIER('avstand_tariff'[ris_prm])
+    ),
+    [best_ant]
+)
+RETURN
+    CEILING((AdjustedRank * 10.0) / TotalInsuredItems, 1)
