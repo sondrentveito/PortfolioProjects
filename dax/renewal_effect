@@ -1,0 +1,11 @@
+renewal_effect = 
+CALCULATE(
+    DIVIDE(
+        SUM('avstand_tariff'[best_prm1]), 
+        SUM('avstand_tariff'[best_prm_forrige])
+    ) - 1,
+    FILTER(
+        'avstand_tariff',
+        NOT(ISBLANK('avstand_tariff'[best_prm1])) && NOT(ISBLANK('avstand_tariff'[best_prm_forrige]))
+    )
+)
