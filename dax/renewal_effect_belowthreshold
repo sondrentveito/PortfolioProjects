@@ -1,0 +1,9 @@
+Fornyelseseffekt < 0.7 = -- looking at the renewal effect for a specific part of the portfolio
+VAR Total_bestandspremie = [Tot_prm]
+VAR andel_premie_over_tariff = [Andel prm > Threshold%]
+VAR ActualFornyelseseffekt = [Fornyelseseffekt pfolje] // This is your measure that calculates the actual renewal effect dynamically
+RETURN
+DIVIDE(
+    (Total_bestandspremie * ActualFornyelseseffekt),
+    (1 - andel_premie_over_tariff) * Total_bestandspremie
+)
