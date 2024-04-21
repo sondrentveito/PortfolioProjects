@@ -1,0 +1,9 @@
+GenderShare = 
+VAR TotalMale = SUM('avstand_tariff'[Male])
+VAR TotalFemale = SUM('avstand_tariff'[Female])
+VAR TotalRows = TotalMale + TotalFemale
+VAR MaleShare = DIVIDE(TotalMale, TotalRows, 0)
+VAR FemaleShare = DIVIDE(TotalFemale, TotalRows, 0)
+RETURN
+    "M " & FORMAT(MaleShare, "0%") & UNICHAR(10) & "K " & FORMAT(FemaleShare, "0%")
+// "M " & FORMAT(MaleShare, "0%") & " (K " & FORMAT(FemaleShare, "0%") & ")"
