@@ -1,0 +1,11 @@
+Tot_Prm_and_Share = 
+VAR TotalPremium = SUM(avstand_tariff[best_prm])
+VAR ShareOfTotal = DIVIDE(
+    TotalPremium, 
+    CALCULATE([Tot_prm], ALLEXCEPT(avstand_tariff, 
+    Cat2[Category2], 
+    // avstand_tariff[Kundealder_5_Cat], avstand_tariff[Kundescore_p_5_Cat], avstand_tariff[Kundescore_nl_5_Cat],
+    avstand_tariff[Divisjon], avstand_tariff[ansv_2_nr],avstand_tariff[kjonn], avstand_tariff[PROD0], avstand_tariff[PROD1], avstand_tariff[PROD2]))
+)
+RETURN 
+FORMAT(TotalPremium / 1000000, "#,0.0") & "M" & UNICHAR(10) & "(" & FORMAT(ShareOfTotal, "0.0%") & ")"
